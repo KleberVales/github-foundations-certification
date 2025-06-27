@@ -24,6 +24,16 @@
   * ssh e sso do salm
 
   ### Trabalho colaborativo
+  * Repositório
+  * branch
+  * pull request
+  * tag
+  * realese
+  * gif
+  * issue
+  * wikes
+  * pesquisas e referencias
+    
   ### Formatação com Markdown
   
   ## Produtos do GitHub
