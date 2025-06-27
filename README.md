@@ -29,9 +29,9 @@
   * pull request
   * tag
   * realese
-  * gif
+  * gist
   * issue
-  * wikes
+  * wikis
   * pesquisas e referencias
     
   ### Formatação com Markdown
@@ -43,3 +43,6 @@
   ### GitHub Codespace
   
   ## Administração do GitHub
+  * Repositório 
+  * ADM
+  * Maintain 
