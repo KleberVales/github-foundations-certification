@@ -3,7 +3,7 @@
   ## Introdução ao Git GitHub
   
   ### Principais comandos
-  ```git bash
+  ```bash
      git init
   ```
   ### Autenticação
