@@ -1,15 +1,15 @@
 # github-foundations-certification
 
   ## Introdução ao Git GitHub
-    ### Principais comandos
-    ### Autenticação
-    ### Trabalho colaborativo
-    ### Formatação com Markdown
+  ### Principais comandos
+  ### Autenticação
+  ### Trabalho colaborativo
+  ### Formatação com Markdown
   
   ## Produtos do GitHub
-    ### Contas e ferramentas
-    ### GitHub Project
-    ### GitHub Copilot
-    ### GitHub Codespace
+  ### Contas e ferramentas
+  ### GitHub Project
+  ### GitHub Copilot
+  ### GitHub Codespace
   
   ## Administração do GitHub
