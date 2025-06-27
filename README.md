@@ -20,6 +20,9 @@
      git dif
   ```
   ### Autenticação
+  * Token
+  * ssh e sso do salm
+
   ### Trabalho colaborativo
   ### Formatação com Markdown
   
