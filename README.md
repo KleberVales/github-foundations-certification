@@ -45,4 +45,11 @@
   ## Administração do GitHub
   * Repositório 
   * ADM
-  * Maintain 
+  * Maintain
+  * Write
+  * Triage
+  * Reade
+  * Organizaçao
+  * Proprietario
+  * Membro
+  * Time
