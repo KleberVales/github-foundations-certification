@@ -5,6 +5,11 @@
   ### Principais comandos
   ```bash
      git init
+     git clone
+     git add
+     git commit
+     git log
+     git branch
   ```
   ### Autenticação
   ### Trabalho colaborativo
