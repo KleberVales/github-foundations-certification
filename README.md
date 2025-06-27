@@ -10,5 +10,6 @@
 ### Contas e ferramentas
 ### GitHub Project
 ### GitHub Copilot
+### GitHub Codespace
 
 ## Administração do GitHub
