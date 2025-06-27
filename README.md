@@ -1,7 +1,11 @@
 # github-foundations-certification
 
   ## Introdução ao Git GitHub
+  
   ### Principais comandos
+  ```git bash
+     git init
+  ```
   ### Autenticação
   ### Trabalho colaborativo
   ### Formatação com Markdown
