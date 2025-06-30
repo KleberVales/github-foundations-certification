@@ -28,3 +28,12 @@ A maior parte do conteúdo organizado está disponível na **Wiki do repositóri
 - Segurança e boas práticas
 
 ---
+
+## 🎓 Sobre a certificação
+
+A certificação **GitHub Foundations** é ideal para quem deseja validar seu conhecimento em controle de versão e colaboração com GitHub.
+
+📝 [Material oficial no Microsoft Learn](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)
+
+---
+
