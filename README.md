@@ -17,3 +17,14 @@ A maior parte do conteúdo organizado está disponível na **Wiki do repositóri
 👉 **[Clique aqui para acessar a Wiki](../../wiki)** e explorar os tópicos organizados por módulo.
 
 ---
+
+## ✅ Tópicos abordados
+
+- Introdução ao Git e GitHub  
+- Repositórios locais e remotos  
+- Commits, branches e pull requests  
+- Colaboração em equipe  
+- GitHub Actions (noções básicas)  
+- Segurança e boas práticas
+
+---
