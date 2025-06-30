@@ -11,3 +11,9 @@ Aqui você encontrará:
 
 ---
 ## 📖 Acesse a Wiki
+
+A maior parte do conteúdo organizado está disponível na **Wiki do repositório**.
+
+👉 **[Clique aqui para acessar a Wiki](../../wiki)** e explorar os tópicos organizados por módulo.
+
+---
