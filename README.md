@@ -1,5 +1,7 @@
 # 🚀 Preparação para a Certificação GitHub Foundations
 
+Este repositório foi criado com o objetivo de organizar meus estudos para a certificação **GitHub Foundations** oferecida pela Microsoft e GitHub Education.
+
 
 # github-foundations-certification
 
