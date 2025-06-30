@@ -21,11 +21,8 @@ A maior parte do conteúdo organizado está disponível na **Wiki do repositóri
 ## ✅ Tópicos abordados
 
 - Introdução ao Git e GitHub  
-- Repositórios locais e remotos  
-- Commits, branches e pull requests  
-- Colaboração em equipe  
-- GitHub Actions (noções básicas)  
-- Segurança e boas práticas
+- Produtos do GitHub
+- Administração do GitHub
 
 ---
 
