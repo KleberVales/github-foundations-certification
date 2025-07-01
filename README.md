@@ -40,7 +40,3 @@ Este repositório é focado em estudo individual, mas sugestões são bem-vindas
 
 ---
 
-## 📅 Status
-
-📌 **Em andamento** — atualizações frequentes durante o período de preparação para o exame.
-
