@@ -36,7 +36,7 @@ A certificação **GitHub Foundations** é ideal para quem deseja validar seu co
 
 ## ✍️ Contribuições
 
-Este repositório é focado em estudo individual, mas sugestões são bem-vindas via issues ou pull requests.
+Contribuições e sugestões são bem-vindas via issues ou pull requests.
 
 ---
 
