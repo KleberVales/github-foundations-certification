@@ -1,42 +1,5 @@
-# 🚀 Preparação para a Certificação GitHub Foundations
+# 📚 GitHub Foundations Certification
 
-Este repositório foi criado com o objetivo de organizar meus estudos para a certificação **GitHub Foundations** oferecida pela Microsoft e GitHub Education.
-
-Aqui você encontrará:
-
-- 🧠 Anotações e resumos dos principais tópicos abordados no exame  
-- 💡 Exemplos práticos de uso do Git e GitHub  
-- 📋 Simulados e questões de revisão  
-- 📚 Links úteis para o Microsoft Learn e materiais oficiais
+Repositório criado como parte da preparação para a certificação **GitHub Foundations**, oferecida pela GitHub Education. Aqui você encontrará anotações, comandos, conceitos e práticas essenciais para dominar o uso do Git e GitHub no dia a dia de desenvolvimento.
 
 ---
-## 📖 Acesse a Wiki
-
-A maior parte do conteúdo organizado está disponível na **Wiki do repositório**.
-
-👉 **[Clique aqui para acessar a Wiki](../../wiki)** e explorar os tópicos organizados por módulo.
-
----
-
-## ✅ Tópicos abordados
-
-- Introdução ao Git e GitHub  
-- Produtos do GitHub
-- Administração do GitHub
-
----
-
-## 🎓 Sobre a certificação
-
-A certificação **GitHub Foundations** é ideal para quem deseja validar seu conhecimento em controle de versão e colaboração com GitHub.
-
-📝 [Material oficial no Microsoft Learn](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)
-
----
-
-## ✍️ Contribuições
-
-Contribuições e sugestões são bem-vindas via issues ou pull requests.
-
----
-
