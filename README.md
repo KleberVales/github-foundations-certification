@@ -15,3 +15,9 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 - Geração e uso de **tokens de acesso pessoal (PAT)**
 - Configuração de **chaves SSH**
 - Integração com **SSO (Single Sign-On)**
+
+### 🤝 Trabalho colaborativo
+- Criação e gerenciamento de **branches**
+- Uso de **pull requests**, **tags**, **releases**
+- Abertura e acompanhamento de **issues**
+- Organização com **GitHub Projects** e **Wikis**
