@@ -10,3 +10,8 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 - `git init`, `git clone`, `git add`, `git commit`, `git log`
 - Branches, merge, checkout, switch
 - Sincronização com repositórios remotos (`git pull`, `git push`, `git fetch`, `git remote`)
+
+### 🔐 Autenticação
+- Geração e uso de **tokens de acesso pessoal (PAT)**
+- Configuração de **chaves SSH**
+- Integração com **SSO (Single Sign-On)**
