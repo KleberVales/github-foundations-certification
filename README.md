@@ -48,3 +48,6 @@ Este repositório serve como base de estudos para a certificação oficial. Saib
 Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+✍️ Autor
+Kleber Vales
+Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
