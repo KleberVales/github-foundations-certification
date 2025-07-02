@@ -21,3 +21,9 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 - Uso de **pull requests**, **tags**, **releases**
 - Abertura e acompanhamento de **issues**
 - Organização com **GitHub Projects** e **Wikis**
+
+### 🛠️ Produtos e ferramentas do GitHub
+- **GitHub Copilot**
+- **GitHub Codespaces**
+- **GitHub Actions**
+- **GitHub Pages**
