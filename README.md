@@ -35,3 +35,10 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 - Proteção de branches e boas práticas de governança
 
 ---
+
+## 🎓 Certificação GitHub Foundations
+
+Este repositório serve como base de estudos para a certificação oficial. Saiba mais sobre a prova e como se preparar em:  
+👉 [GitHub Foundations Certification](https://education.github.com/experiences/foundations_certificate)
+
+---
