@@ -27,3 +27,11 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 - **GitHub Codespaces**
 - **GitHub Actions**
 - **GitHub Pages**
+
+### 🛡️ Administração e segurança
+- Tipos de contas (pessoal, organização, enterprise)
+- Permissões (`read`, `write`, `maintain`, `admin`)
+- Criação de times e controle de acesso
+- Proteção de branches e boas práticas de governança
+
+---
