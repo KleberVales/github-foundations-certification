@@ -8,7 +8,7 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 
 ### [Introdução ao Git GitHub](https://github.com/KleberVales/github-foundations-certification/wiki/Introdu%C3%A7%C3%A3o-ao-Git-GitHub)
 ### [Produtos do GitHub](https://github.com/KleberVales/github-foundations-certification/wiki/Produtos-do-GitHub)
-### Administração do GitHub
+### [Administração do GitHub](https://github.com/KleberVales/github-foundations-certification/wiki/Administra%C3%A7%C3%A3o-do-GitHub)
 
 
 
