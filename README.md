@@ -30,3 +30,5 @@ Kleber Vales
 Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
 
 Bacharel em Ciência da Computação
+MBA em Desenvolvimento de Software Web (Cursando)
+
