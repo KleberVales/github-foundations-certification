@@ -10,8 +10,6 @@ Repositório criado como parte da preparação para a certificação **GitHub Fo
 ### [Produtos do GitHub](https://github.com/KleberVales/github-foundations-certification/wiki/Produtos-do-GitHub)
 ### [Administração do GitHub](https://github.com/KleberVales/github-foundations-certification/wiki/Administra%C3%A7%C3%A3o-do-GitHub)
 
-
-
 ---
 
 ## 🎓 Certificação GitHub Foundations
@@ -30,3 +28,5 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais det
 
 Kleber Vales  
 Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
+
+Bacharel em Ciência da Computação
