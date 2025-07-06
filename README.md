@@ -29,6 +29,6 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais det
 Kleber Vales  
 Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
 
-Bacharel em Ciência da Computação
+Bacharel em Ciência da Computação\
 MBA em Desenvolvimento de Software Web (Cursando)
 
