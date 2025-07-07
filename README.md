@@ -22,7 +22,7 @@ Este repositório serve como base de estudos para a certificação oficial. Saib
 
 Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 
-
+👉 **[Clique aqui para acessar a Wiki](../../wiki)** 👈
 
 ## 📄 Licença
 
