@@ -20,6 +20,8 @@ Este repositório serve como base de estudos para a certificação oficial. Saib
 ---
 ## 🗂 Acesse a Wiki
 
+Todo o conteúdo está organizado por tópicos na Wiki do repositório.
+
 
 
 ## 📄 Licença
