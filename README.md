@@ -30,6 +30,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
   - git init
   - git add .
   - git commit
+  - git clone
 
 ## 📄 Licença
 
