@@ -32,6 +32,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
   - git commit
   - git clone
   - git status
+  - git branch
 
 ## 📄 Licença
 
