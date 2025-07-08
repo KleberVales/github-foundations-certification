@@ -28,6 +28,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 #### Introdução ao Git GitHub
 - principais comandos
   - git init
+  - git add .
 
 ## 📄 Licença
 
