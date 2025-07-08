@@ -27,6 +27,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 ### Conteúdo das Wikis
 #### Introdução ao Git GitHub
 - principais comandos
+  - git init
 
 ## 📄 Licença
 
