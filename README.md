@@ -29,6 +29,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 - principais comandos
   - git init
   - git add .
+  - git commit
 
 ## 📄 Licença
 
