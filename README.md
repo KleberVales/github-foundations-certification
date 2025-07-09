@@ -37,6 +37,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
   - git checkout
   - git pull
   - git push
+  - git remote
     
 
 ## 📄 Licença
