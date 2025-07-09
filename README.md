@@ -34,6 +34,8 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
   - git status
   - git branch
   - git log
+  - git checkout
+    
 
 ## 📄 Licença
 
