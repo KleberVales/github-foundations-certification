@@ -38,6 +38,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
   - git pull
   - git push
   - git remote
+  - git fetch
     
 
 ## 📄 Licença
