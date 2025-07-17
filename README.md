@@ -46,7 +46,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-## ✍️ Autor
+### ✍️ Autor
 
 Kleber Vales  
 Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
