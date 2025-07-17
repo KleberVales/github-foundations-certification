@@ -48,9 +48,12 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais det
 ---
 ### ✍️ Autor
 
-Kleber Vales  
-Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
+**Kleber Vales**  
 
-Bacharel em Ciência da Computação\
-MBA em Desenvolvimento de Software Web (Cursando)
+*Desenvolvedor de Software*  
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
+
+Bacharel em Ciência da Computação  
+MBA em Desenvolvimento de Software (Cursando)
+
 
