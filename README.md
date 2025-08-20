@@ -18,6 +18,13 @@
 ### GitHub Desktop e Mobile
 ### Dependabot
 
+--- 
+
+## Administração do Github
+### Conta Pessoal
+### Conta de Organização
+### Conta Corporativa
+
 
 ---
 ### ✍️ Autor
