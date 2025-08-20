@@ -12,7 +12,7 @@
 
 **Kleber Vales**  
 
-*Desenvolvedor de Software*  
+*Back-end Software Engineer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
 
 Bacharel em Ciência da Computação  
