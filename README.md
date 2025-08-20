@@ -27,6 +27,12 @@
 
 
 ---
+
+## Links
+
+#### Study guide for GH-900: GitHub Foundations 
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-900#exam-design
+
 ### ✍️ Autor
 
 **Kleber Vales**  
