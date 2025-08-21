@@ -41,6 +41,6 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
 
 Bacharel em Ciência da Computação  
-MBA em Desenvolvimento de Software (Cursando)
+MBA em Desenvolvimento de Software 
 
 
